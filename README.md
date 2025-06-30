@@ -1,16 +1,21 @@
-# calculator_app
+# Flutter Scientific Calculator App 🧮
 
-A new Flutter project.
+A simple yet powerful calculator built with Flutter.  
+Supports basic math, trigonometry (sin, cos, tan), log, square root, dark mode, and expression parsing.
+
+## Features
+- Standard and scientific mode
+- Light/dark theme
+- Keyboard and touch support
+- Clean UI with Material 3
+
+## Screenshots
+*(Add some screenshots here)*
 
 ## Getting Started
+```bash
+git clone https://github.com/YOUR_USERNAME/flutter-calculator.git
+cd flutter-calculator
+flutter pub get
+flutter run
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
